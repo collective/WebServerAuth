@@ -1,7 +1,9 @@
 CHANGES
 =======
 
-1.7.2 - (unrelease)
+1.8 - (unrelease)
 -------------------
+
+- Switch to modern GenericSetup install
 
 - Fix Plone 5 CSRF issues
